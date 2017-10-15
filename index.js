@@ -12,5 +12,6 @@ hello.getGreeting().then(
     },
     (err) => {
         console.log(err);
+        
     }
 )
